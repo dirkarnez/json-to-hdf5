@@ -9,3 +9,6 @@ json-to-hdf5
   - [ndjson](http://ndjson.org/)
 - Otherwise
   - Try to write conversion logic ourselves (if the [CLI tools](jsontoh5.cmd) does not work)
+
+### Tools
+- [HDFView 3.1.4](https://portal.hdfgroup.org/display/support/HDFView+3.1.4)
